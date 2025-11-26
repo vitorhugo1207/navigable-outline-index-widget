@@ -12,3 +12,5 @@ export 'src/widgets/scrollable_outline_index.dart';
 export 'src/widgets/outline_trigger_button.dart';
 export 'src/widgets/outline_panel.dart';
 export 'src/widgets/outline_list_item.dart';
+export 'src/utils/outline_position_detector.dart';
+export 'src/utils/scroll_animator.dart';

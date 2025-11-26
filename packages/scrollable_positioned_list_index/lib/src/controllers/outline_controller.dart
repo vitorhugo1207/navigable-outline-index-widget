@@ -34,7 +34,7 @@ class OutlineController extends ChangeNotifier {
   Timer? _debounceTimer;
   String? _activeItemId;
   bool _isExpanded = false;
-  Set<String> _collapsedSections = {};
+  final Set<String> _collapsedSections = {};
 
   /// The list of outline items.
   List<OutlineItem> get items => _items;
