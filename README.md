@@ -1,4 +1,4 @@
-# Scrollable Positioned List Index
+# navigable outline/index widget
 
 A navigable outline/index widget for Flutter that provides a table of contents with smooth scrolling and position tracking, similar to modern editor outlines found in VSCode, Notion, Google Docs, and Obsidian.
 
