@@ -20,6 +20,7 @@ pubspec.lock
 .settings
 .idea
 .c9
+.vscode
 
 # Flutter tool generated ephemeral files
 .flutter-plugins
