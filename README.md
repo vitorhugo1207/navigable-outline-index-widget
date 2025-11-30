@@ -4,6 +4,12 @@ A navigable outline/index widget for Flutter that provides a table of contents w
 
 [![pub package](https://img.shields.io/pub/v/scrollable_positioned_list_index.svg)](https://pub.dev/packages/scrollable_positioned_list_index)
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/vitorhugo1207">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=vitorhugo1207&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
+
 ## Features
 
 - 🎯 **Floating trigger button** - Discrete and always accessible
